@@ -9,7 +9,7 @@
 
 - 🤙🏻 Me chamo **Matheus Bastelli Grigoletto** e sou de Limeira, São Paulo
 - 💜 Sou apaixonado por desenvolvimento, em especial por *Front-end* e *mobile*
-- 👨🏻‍💻 Software Engineer Front-end no **Mercado Livre / Mercado Pago**
+- 👨🏻‍💻 Front-end Tech Lead na **Órigo Energia**
 - 🚀 Amo **aprender**, de **organização**, de ajudar pessoas e estar sempre em constante **evolução**
 - 🍻 Fã incondicional de cerveja, Zelda, Pokémon e Linkin Park!
 
