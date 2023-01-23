@@ -1,22 +1,18 @@
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
-<!-- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px" /> -->
 ![mario coder](https://i.imgur.com/1ZvVkDc.gif)
-
 
 ### 😁 Sobre mim
 
 - 🤙🏻 Me chamo **Matheus Bastelli Grigoletto** e sou de Limeira, São Paulo
-- 💜 Sou apaixonado por desenvolvimento, em especial por *Front-end* e *mobile*
-- 👨🏻‍💻 Front-end Tech Lead na **Órigo Energia**
+- 💜 Sou apaixonado por desenvolvimento, em especial por _Front-end_ e _mobile_
+- 👨🏻‍💻 Desenvolvedor na **Órigo Energia**
 - 🚀 Amo **aprender**, de **organização**, de ajudar pessoas e estar sempre em constante **evolução**
 - 🍻 Fã incondicional de cerveja, Zelda, Pokémon e Linkin Park!
 
-
 ### 🌌 Minha Stack
 
- Algumas das tecnologias que uso no dia-a-dia *ou que estou estudando*
+Algumas das tecnologias que uso no dia-a-dia _ou que estou estudando_
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React" />  
@@ -31,7 +27,6 @@
 <img src="https://cdnjs.cloudflare.com/ajax/libs/browser-logos/71.0.0/chrome/chrome_64x64.png" width="60" alt="Chrome" />
 </div>
 
-
 ### 📈 Estatísticas
 
 <div align="center">
@@ -40,11 +35,9 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheusgrigoletto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&hide=issues,contribs"/>
 </div>
 
- 
 ### 🎧 Ouvindo
- 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=matheus.grigoletto.spotify&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=matheus.grigoletto.spotify&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### 💬 Vamos conversar
 
